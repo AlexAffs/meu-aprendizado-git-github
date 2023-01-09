@@ -1,0 +1,1 @@
+Aqui aprendemos os comandos básicos de git, para entender melhor o controle de versionamento dos primeiros programas, para que assim estes se tornem meus primeiros passos para o entendimento da programação
